@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashokratna/Calculator/static/css/main.a376b2bd.chunk.css",
+    "main.js": "/ashokratna/Calculator/static/js/main.3cf95e9e.chunk.js",
+    "main.js.map": "/ashokratna/Calculator/static/js/main.3cf95e9e.chunk.js.map",
+    "runtime~main.js": "/ashokratna/Calculator/static/js/runtime~main.ab6e0263.js",
+    "runtime~main.js.map": "/ashokratna/Calculator/static/js/runtime~main.ab6e0263.js.map",
+    "static/js/2.3f2133f4.chunk.js": "/ashokratna/Calculator/static/js/2.3f2133f4.chunk.js",
+    "static/js/2.3f2133f4.chunk.js.map": "/ashokratna/Calculator/static/js/2.3f2133f4.chunk.js.map",
+    "index.html": "/ashokratna/Calculator/index.html",
+    "precache-manifest.de5d350562835390c5c61a2adaa08448.js": "/ashokratna/Calculator/precache-manifest.de5d350562835390c5c61a2adaa08448.js",
+    "service-worker.js": "/ashokratna/Calculator/service-worker.js",
+    "static/css/main.a376b2bd.chunk.css.map": "/ashokratna/Calculator/static/css/main.a376b2bd.chunk.css.map"
+  }
+}
